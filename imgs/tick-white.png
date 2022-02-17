@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.903" height="27.05" viewBox="0 0 26.903 27.05">
+  <g id="tick-price" transform="translate(0 2.05)">
+    <path id="Path_16239" data-name="Path 16239" d="M12.5,0a12.992,12.992,0,0,1,4.039.667A12.509,12.509,0,1,1,12.5,0Z" fill="#5a52ff" opacity="0.305"/>
+    <path id="Path_16238" data-name="Path 16238" d="M6.676,9.751C13.168,22.865,8.354,18.362,24.12.437" transform="translate(0.278 0.018)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3.55" fill-rule="evenodd"/>
+  </g>
+</svg>
